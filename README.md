@@ -22,7 +22,7 @@ responsibility!**
 
 ## License
 
-Copyright (C) 2021 Jahed Ahmed
+Copyright (C) 2021 D3ADVAU
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
